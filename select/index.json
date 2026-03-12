@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Blind",
+  "base_artist": "MONSTA X",
+  "createdAt": "2026-03-12T02:49:18.328513Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loving Blind",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/01_Loving_Blind_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Color Blind",
+      "artist": "Diplo feat. Lil Xan",
+      "has_synced": true,
+      "path": "select/02_Color_Blind_Diplo_feat._Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Color Blind (feat. Diplo)",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/03_Color_Blind_(feat._Diplo)_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wanna Be Blind",
+      "artist": "Turnstile feat. Mall Grab",
+      "has_synced": false,
+      "path": "select/04_I_Wanna_Be_Blind_Turnstile_feat._Mall_Grab.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wanna Be Blind",
+      "artist": "Turnstile & Mall Grab",
+      "has_synced": false,
+      "path": "select/05_I_Wanna_Be_Blind_Turnstile_&_Mall_Grab.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Blind Man",
+      "artist": "Mono",
+      "has_synced": false,
+      "path": "select/06_The_Blind_Man_Mono.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yes, I Am Blind",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/07_Yes,_I_Am_Blind_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blind Lemon Jefferson",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": false,
+      "path": "select/08_Blind_Lemon_Jefferson_Nick_Cave_&_The_Bad_Seeds.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blind Lemon Jefferson",
+      "artist": "Nick Cave And The Bad Seeds",
+      "has_synced": false,
+      "path": "select/09_Blind_Lemon_Jefferson_Nick_Cave_And_The_Bad_Seeds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heresy (Blind)",
+      "artist": "Nine Inch Nails",
+      "has_synced": false,
+      "path": "select/10_Heresy_(Blind)_Nine_Inch_Nails.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blind Man",
+      "artist": "Curved Air",
+      "has_synced": true,
+      "path": "select/11_Blind_Man_Curved_Air.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Love Ain't Blind",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/12_My_Love_Ain't_Blind_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Kingdom of the Blind the One-eyed Are Kings",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/13_In_the_Kingdom_of_the_Blind_the_One-eyed_Are_Kings_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In The Kingdom Of The Blind The One Eyed Are Kings",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/14_In_The_Kingdom_Of_The_Blind_The_One_Eyed_Are_Kings_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blind Love",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/15_Blind_Love_B.B._King.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blind",
+      "artist": "몬스타엑스",
+      "has_synced": false,
+      "path": "select/pl_01_Blind_몬스타엑스.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Blind",
+      "artist": "몬스타엑스",
+      "has_synced": false,
+      "path": "select/pl_02_Blind_몬스타엑스.txt"
+    }
+  ]
+}
